@@ -1,0 +1,12 @@
+
+  Actually this is just like the book santa but instead of books the user can adopt or donate pets instead of books
+
+-> This app is based on the book santa app but it is for adopting the animals as pets.. Like,In the book donate screen
+the active requests are shown,But in this app,Instead of books there will be names of the pets which are available to 
+adopt. And instead of the book request screen there will be a screen where you can upload the photo of any pet/animal
+and any description about the animal can be written like what what vaccines need to be given or anything like that
+in place of the reason to request. 
+-> And the user can change his profile settings like the book santa and upload profile pic..
+ 
+ Most of it is like the book santa so we can use the same code and it will be completed quickly...
+
